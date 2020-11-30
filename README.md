@@ -2,12 +2,12 @@
 This project will demonstrate proficiency in using advanced Python knowledge to web scrape data from a state's Wikipedia page, plot said data using Matplotlib, and update the code on GitHub.
 
 # Collaborators:
-Jacob Goss (Creator)
+*Jacob Goss (Creator)
 
-Samuel Hale
+*Samuel Hale
 
-Daniel Hixon
+*Daniel Hixon
 
-Austin Jenkins
+*Austin Jenkins
 
-Michael Horn
+*Michael Horn
