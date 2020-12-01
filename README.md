@@ -11,4 +11,4 @@ __Collaborators:__
 * Samuel Hale
 * Daniel Hixon (Accepted)
 * Austin Jenkins
-* Michael Horn
+* Michael Horn (ACCEPTANCE)
