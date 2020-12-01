@@ -9,6 +9,6 @@ __Webscrapping URL:__ https://en.wikipedia.org/wiki/California
 __Collaborators:__
 * Jacob Goss (Creator)
 * Samuel Hale
-* Daniel Hixon
+* Daniel Hixon (Accepted)
 * Austin Jenkins
 * Michael Horn
