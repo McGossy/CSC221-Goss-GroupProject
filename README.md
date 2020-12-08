@@ -10,5 +10,5 @@ __Collaborators:__
 * Jacob Goss (Creator)
 * Samuel Hale (Accepted)
 * Daniel Hixon (Accepted)
-* Austin Jenkins
+* Austin Jenkins (Accepted)
 * Michael Horn (ACCEPTANCE)
