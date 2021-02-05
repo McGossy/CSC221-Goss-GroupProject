@@ -1,14 +1,7 @@
-# CSC221-Goss-GroupProject
+# GroupProject
 
-__Owner:__ Jacob Goss : Student email: jdgoss@my.waketech.edu : Personal email : McGossy@gmail.com
+__Owner:__ 
 
 __Project Description:__ This project will demonstrate proficiency in using advanced Python knowledge to web scrape data from a state's Wikipedia page, plot said data using Matplotlib, and update the code on GitHub.
 
 __Webscrapping URL:__ https://en.wikipedia.org/wiki/Hawaii
-
-__Collaborators:__
-* Jacob Goss (Creator)
-* Samuel Hale (Accepted)
-* Daniel Hixon (Accepted)
-* Austin Jenkins (Accepted)
-* Michael Horn (ACCEPTANCE)
